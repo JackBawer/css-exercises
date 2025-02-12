@@ -1,0 +1,14 @@
+.this,
+.that {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.this {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.that {
+    background-color: #ffff00
+}
